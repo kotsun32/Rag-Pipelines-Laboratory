@@ -2,6 +2,8 @@
 
 A comprehensive platform for experimenting with different Retrieval-Augmented Generation (RAG) configurations and comparing their performance. This project provides a modular framework supporting multiple frameworks, vector stores, and retrieval methods with an interactive Gradio interface.
 
+![Architecture Diagram](architecture_diagram.png)
+
 ## ✨ Features
 
 - **Multiple Framework Support**: LangChain, LlamaIndex, LangGraph, and Custom implementations
