@@ -37,12 +37,13 @@ python app.py
 ## 📁 Project Structure
 
 ```
-Rag_pipelines/
+Rag-Pipelines-Laboratory/
 ├── app.py              # Main Gradio application
 ├── rag_pipeline.py     # Core RAG pipeline implementations
 ├── config.py           # Configuration classes and enums
 ├── requirements.txt    # Python dependencies
 ├── .env.example       # Environment variables template
+├── .gitignore         # Git ignore patterns
 └── README.md          # This file
 ```
 
